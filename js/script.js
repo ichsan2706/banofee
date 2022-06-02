@@ -1,3 +1,5 @@
+// Disini adalah bagian code membuat semua yang berhubungan saat tombol di klik dan memunculkan loading
+
 let menu = document.querySelector('#menu-bars');
 let navbar = document.querySelector('.navbar');
 
